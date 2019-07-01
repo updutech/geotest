@@ -1,0 +1,2 @@
+# geotest
+Cordova geolocation test
